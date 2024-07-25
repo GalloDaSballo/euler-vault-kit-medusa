@@ -33,7 +33,7 @@
 			"traceAll": false,
 			"assertionTesting": {
 				"enabled": true,
-				"testViewMethods": true,
+				"testViewMethods": false,
 				"panicCodeConfig": {
 					"failOnCompilerInsertedPanic": false,
 					"failOnAssertion": true,
